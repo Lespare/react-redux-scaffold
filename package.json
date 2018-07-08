@@ -1,0 +1,33 @@
+{
+  "name": "react-redux-scaffold",
+  "version": "1.3.0",
+  "description": "An opinionated scaffold for react and redux based on facebook's create-react-app.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lespare/react-redux-scaffold"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lespare",
+    "scaffold",
+    "opinionated",
+    "react",
+    "redux",
+    "api",
+    "generator."
+  ],
+  "author": "Sylvance Kerandi.",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "console-emoji": "0.0.2",
+    "npm": "^6.1.0",
+    "shelljs": "^0.8.2"
+  },
+  "bin": {
+    "lespare scaffold": "index.js"
+  }
+}
